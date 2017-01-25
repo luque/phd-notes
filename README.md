@@ -144,3 +144,29 @@ will enable a very fast feedback loop based on our work-in-progress models.
   3. Experiment with new media for working with dynamic and powerful
 representations to think and learn about our software systems.
 
+# Work plan
+
+* 1st year: State of the art systematic review and made the required adjustments to this research
+plan in based of the review results.
+* 2nd year: Build first prototypes for a conceptual-modeling environment and the supporting domain-
+aware virtual machine to run the models.
+* 3rd year: Enhance the conceptual modeling environment with capabilities to build and show
+powerful and real-time representations of the dynamic models.
+
+# Bibliography
+
+[1] The Death of Object-Oriented Programming. Oscar Nierstrasz. Software Composition
+Group, University of Bern, Switzerland.
+[2] Conceptual-Model Programming: A Manifesto. David W. Embley, Stephen W. Liddle,
+and Oscar Pastor.
+[3] The Humane Representation of Thought. Bret Victor.
+http://worrydream.com/TheHumaneRepresentationOfThought/note.html
+[4] Media for Thinking the Unthinkable. Bret Victor.
+http://worrydream.com/MediaForThinkingTheUnthinkable/
+[5] Patterns of Software: Tales from the Software Community. Richard P. Gabriel.
+[6] Object Thinking. David West.
+[7] Domain-Driven Design:Tackling Complexity in the Heart of Software. Eric Evans.
+[8] Implementing Domain-Driven Design. Vernon Vaughn.
+[9] Domain-Driven Design Reference: Definitions and Pattern Summaries. Eric Evans.
+[10] The Nature of Software Development. Ron Jeffries.
+[11] The CRC Card Book. David Bellin and Susan Suchman.
