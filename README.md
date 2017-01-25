@@ -55,9 +55,9 @@ Software engineers are little concerned with the representation and processing o
 knowledge and too much concerned with the solution space considerations.
 Until now the focus has been on the least tractable representation of the software
 problem, the code:
-  - Extremely complex.
-  - Hard to reason about.ESCUELA
-  - Hard to change, adapt or reuse.
+  * Extremely complex.
+  * Hard to reason.
+  * Hard to change, adapt or reuse.
 
 The promise of object-oriented programming, and of programming languages themselves,
 has yet to be fulfilled. That promise is to make plain to computers and to other
