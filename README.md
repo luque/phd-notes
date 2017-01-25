@@ -48,3 +48,40 @@ We plan to build a new breed of **dynamic and fully conceptual modeling environm
 order to enable programmers to work through every development stage –-analysis,
 specification, design, implementation, deployment, evolution, etc.--- at the conceptual
 level and explore their dynamic models as a thinking and learning tool.
+
+# Precedentes and State of the Art
+
+Software engineers are little concerned with the representation and processing of domain
+knowledge and too much concerned with the solution space considerations.
+Until now the focus has been on the least tractable representation of the software
+problem, the code:
+  - Extremely complex.
+  - Hard to reason about.ESCUELA
+  - Hard to change, adapt or reuse.
+
+The promise of object-oriented programming, and of programming languages themselves,
+has yet to be fulfilled. That promise is to make plain to computers and to other
+programmers the communication of the computational intentions of a programmer or a
+team of programmers.
+
+The failure of programming languages to do this is the result of a variety of failures to
+take seriously the needs of people in programming rather than the needs of the computer
+and the language/compiler/framework writer. To some degree, this failure can be
+attributed to our failure to take seriously the needs of the programmer.
+
+Several initiatives have appeared in the last years trying to tackle the software
+complexity by focusing the team's attention on knowledge of the domain, picking apart
+the most tricky, intricate problems with models, and shaping the software around those
+models.
+
+Perhaps the most prominent initiative is this direction is the Domain-Driven Design (DDD)
+approach proposed by Eric Evans in 2004. Since then the DDD principles have been
+slowly spreaded and adopted by an incipient community of practitioners. In spite of these
+efforts most software projects continue both ignoring the relevance of the domain
+knowledge or doing a poor previous modeling work withouth getting much real benefits at
+the end.
+
+In our opinion, DDD has laid out some useful concepts and practices. However we pretend
+to take the DDD phylosophy and vaues until their last consequences in a kind of “Extreme
+DDD”.
+
