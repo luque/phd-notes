@@ -161,11 +161,9 @@ Group, University of Bern, Switzerland.
 [2] Conceptual-Model Programming: A Manifesto. David W. Embley, Stephen W. Liddle,
 and Oscar Pastor.
 
-[3] The Humane Representation of Thought. Bret Victor.
-http://worrydream.com/TheHumaneRepresentationOfThought/note.html
+[3] The Humane Representation of Thought. Bret Victor. http://worrydream.com/TheHumaneRepresentationOfThought/note.html
 
-[4] Media for Thinking the Unthinkable. Bret Victor.
-http://worrydream.com/MediaForThinkingTheUnthinkable/
+[4] Media for Thinking the Unthinkable. Bret Victor. http://worrydream.com/MediaForThinkingTheUnthinkable/
 
 [5] Patterns of Software: Tales from the Software Community. Richard P. Gabriel.
 
