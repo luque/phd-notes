@@ -85,3 +85,62 @@ In our opinion, DDD has laid out some useful concepts and practices. However we 
 to take the DDD phylosophy and vaues until their last consequences in a kind of “Extreme
 DDD”.
 
+# Work hypothesis and Goals
+
+It is safe to say that we all share a feeling of unease as far as the general state of
+software is concerned: development is difficult, achieving correctness is difficult, levels of
+software reuse are low, feedback loops are too large, etc.
+
+In this thesis we explore some of the root causes of this apparent failure, and argue that
+we need to be bolder in interpreting the original vision of object-orientation.
+
+An argument can be made that the contemporary mainstream understanding of objects
+is but a pale shadow of the original idea. Further, it can be argued that the mainstream
+understanding of objects is, in practice, antithetical to the original intent.
+
+We have identified the following working hypothesis:
+
+  1. Programming is a representation of thought, so programmers should be able to
+focus their attention on the problem space rather than the solution space.
+Our current programming languages and tools appart us far from the domain
+concepts. Even using those languages relatively bening –-like “pure” object-
+oriented programming languages--- it is still required too much attention and
+dedicated effort to the implementation details.
+  2. We must get away from pencil-and-paper thinking and create a new dynamic
+  medium for thinking and learning software.
+
+Even when working on the computer, we still think in representations that were
+invented for the medium of paper. Programming languages are written languages
+and they were designed for writing.
+
+What programmers could think is determined by the language they use and some
+languages or media allow you to think "better" than others (Sapir–Whorf hypothesis
+or “linguistic relativity”).
+
+To understand or build complex systems, we need powerful new representations,
+and we need a powerful new medium to work with these representations.
+Our screens and keyboards are pencil and paper metaphors that constrained us to
+mostly simple symbolic representations. However in the new medium
+representations can draws on all the modes of understanding of the human brain
+like visual, aural, tactile, kinesthetic and spatial.
+
+Besides, this new media should also be dynamic because to understand a system
+it's not enough to see one static representation or a variable at a time. You should
+see the system running to be able to fully understand its dynamics.
+
+In this thesis we argue that we should revisit our traditional programming paradigms to
+address these issues.
+
+We further propose a number of research challenges:
+
+  1. Bring programmers inmerse into the domain model and avoid any kind of
+distractions by working permanently within a “pure” conceptual modeling
+environment. This conceptual environment must provide an holistic view of a
+software system, incluyding all necessary aspects of function (behaviour),
+interaction (system integrations and user interactions) and data (structure).
+  2. Build a domain-aware runtime environment –-a kind of domain-aware virtual
+machine--- able to interpret any valid conceptual model. This runtime environment
+will enable a very fast feedback loop based on our work-in-progress models.
+  3. Experiment with new media for working with dynamic and powerful
+representations to think and learn about our software systems.
+
